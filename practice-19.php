@@ -25,7 +25,24 @@ echo "Hello world, it feels soo good to be back!\n";
  * PHP 7 supports new operators like the spaceship operator (<=>)
  * 
  * In PHP, keywords, classes, function and user defined functions are case-insensitive, while variables are case-sensitive
- * 
  */
+
+  // Example 1: Document that prints "Hello World" on a web page:
+
+  /*
+
+  <!DOCTYPE html>
+  <head></head>
+  <html>
+
+  <body>
+  <?php
+        echo 'Hello World';
+  ?>
+  </body>
+
+  </html>
+
+  */
 
 ?>
