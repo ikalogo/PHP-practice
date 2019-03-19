@@ -30,7 +30,6 @@ echo "Hello world, it feels soo good to be back!\n";
  */
 
   // Example 1: Document that prints "Hello World" on a web page:
-
   /*
 
   <!DOCTYPE html>
@@ -46,5 +45,21 @@ echo "Hello world, it feels soo good to be back!\n";
   </html>
 
   */
+
+  // Example 2: case-sensitive vs case-insensitive
+  /* Case-insensitive */
+  echo "Example 2: case-sensitive vs case-insensitive";
+
+  ECHO "hi there\n";
+  EcHo "hi there\n";
+  ecHO "hi there\n";
+  //all above lines run
+
+  /* Case-sensitive */
+  
+  $number = 25;
+  echo "I'm ".$number." years old.\n";
+  echo "I'm ".$numBER." years old.\n";
+  //only one line will display the correct message
 
 ?>
