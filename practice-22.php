@@ -40,7 +40,10 @@
  /**
   * PHP supports the following data types: 
   * * String - sequence of characters grouped by single or double quotes - e.g. "hello"
-  * * Integer
+  * * Integer - an integer number is a non-decimal number between -2,147,483,648 and 2,147,483,647
+  *             integers must have: at least one digit, must not have decimal points, can be either positive or negative
+  *             integers can be specified in three formats: decimal (10-based). hexadecimal (16-based - prefixed with 0x)
+  *             or octal (8-base prefixed with 0)
   * * Float (floating point numbers also known as double)
   * * Boolean
   * * Array
@@ -55,5 +58,6 @@
   $a = "PHP";
   $b = "programming language";
   echo $a, " is a ", $b."\n";
+  echo "\n";
 
 ?>
