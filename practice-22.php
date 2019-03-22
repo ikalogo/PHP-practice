@@ -48,4 +48,12 @@
   * NULL
   * Resource
   */
+
+  //Example 3: Strings
+  echo "Example 3: Strings\n\n";
+
+  $a = "PHP";
+  $b = "programming language";
+  echo $a, " is a ", $b."\n";
+
 ?>
