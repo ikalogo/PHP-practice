@@ -24,6 +24,13 @@
  echo "\n";
 
  //Example 2: print usage
+ echo "Example 2: print usage\n\n";
 
-
+ print "a random phrase\n";
+ print "<p>print can also be used with html markup</p>\n";
+ print "print can also be used with ".$text."\n";
+ print "another example showing how print can be used with $text\n";
+ print $a+$b;
+ print "\n";
+ print "\n";
 ?>
