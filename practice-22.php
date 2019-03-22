@@ -20,5 +20,10 @@
  $a = 10;
  $b = 5;
  echo $a+$b;
+ echo "\n";
+ echo "\n";
+
+ //Example 2: print usage
+
 
 ?>
