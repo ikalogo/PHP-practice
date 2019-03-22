@@ -21,6 +21,8 @@
  $b = 5;
  echo $a+$b;
  echo "\n";
+ $t = "parameters";
+ echo "example passing ", $t, " with echo\n";
  echo "\n";
 
  //Example 2: print usage
