@@ -60,4 +60,10 @@
   echo $a, " is a ", $b."\n";
   echo "\n";
 
+  //Example 4: Integers
+  echo "Example 4: Integers\n\n";
+
+  $x = 3568;
+  var_dump($x);
+  echo "\n\n";
 ?>
