@@ -83,4 +83,11 @@
   echo "\n";
   var_dump($_false);
   echo "\n\n";
+
+  //Example 7: Arrays
+  echo "Example 7: Array\n\n";
+
+  $cars =  array('Fiat', 'Toyota', 'Volvo');
+  var_dump($cars);
+
 ?>
