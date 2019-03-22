@@ -104,4 +104,11 @@
   var_dump($car);
   echo "\n";
 
+  //Example 9: NULL Value
+  echo "Example 9: NULL Value\n\n";
+
+  $x=null;
+  var_dump($x);
+  echo "\n";
+
 ?>
