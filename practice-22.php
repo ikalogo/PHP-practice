@@ -49,7 +49,8 @@
   * * Array
   * * Object
   * * NULL
-  * * Resource
+  * * Resource - not an actual data type, just the storing of a reference to functions and resources external to PHP.
+  *              a common example is a database call.
   */
 
   //Example 3: Strings
