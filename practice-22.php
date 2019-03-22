@@ -39,14 +39,14 @@
  //Data Types
  /**
   * PHP supports the following data types: 
-  * String - sequence of characters grouped by single or double quotes - e.g. "hello"
-  * Integer
-  * Float (floating point numbers also known as double)
-  * Boolean
-  * Array
-  * Object
-  * NULL
-  * Resource
+  * * String - sequence of characters grouped by single or double quotes - e.g. "hello"
+  * * Integer
+  * * Float (floating point numbers also known as double)
+  * * Boolean
+  * * Array
+  * * Object
+  * * NULL
+  * * Resource
   */
 
   //Example 3: Strings
