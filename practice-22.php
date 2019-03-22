@@ -44,7 +44,7 @@
   *             integers must have: at least one digit, must not have decimal points, can be either positive or negative
   *             integers can be specified in three formats: decimal (10-based). hexadecimal (16-based - prefixed with 0x)
   *             or octal (8-base prefixed with 0)
-  * * Float (floating point numbers also known as double)
+  * * Float (floating point numbers also known as double) - a number with a decimal point or a number in exponential form
   * * Boolean
   * * Array
   * * Object
