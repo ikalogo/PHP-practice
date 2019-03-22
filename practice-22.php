@@ -73,5 +73,14 @@
   $f = 10.385;
   var_dump($f);
   echo "\n\n";
-  
+
+  //Example 6: Booleans
+  echo "Example 6: Booleans\n\n";
+
+  $_true = true;
+  $_false = false;
+  var_dump($_true);
+  echo "\n";
+  var_dump($_false);
+  echo "\n\n";
 ?>
