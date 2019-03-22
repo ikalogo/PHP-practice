@@ -89,5 +89,19 @@
 
   $cars =  array('Fiat', 'Toyota', 'Volvo');
   var_dump($cars);
+  echo "\n";
+
+  //Example 8: Objects
+  echo "Example 8: Objects\n\n";
+
+  class Car {
+      function Car($model){
+          $this->model = $model;
+      }
+  }
+
+  $car = new Car("BMW");
+  var_dump($car);
+  echo "\n";
 
 ?>
