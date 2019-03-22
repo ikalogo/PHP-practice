@@ -8,4 +8,17 @@
  * The echo statement can be used with or without parentheses: echo, echo()
  */
 
+ //Example 1: echo usage
+ echo "Example 1: echo usage\n\n";
+
+ echo "a random phrase\n";
+ echo "a ", "random ", "phrase\n";
+ echo "<p>echo can also be used with html markup</p>\n";
+ $text = "variables";
+ echo "echo can also be used with ".$text."\n";
+ echo "another example showing how echo can be used with $text\n";
+ $a = 10;
+ $b = 5;
+ echo $a+$b;
+
 ?>
