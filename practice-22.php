@@ -66,4 +66,12 @@
   $x = 3568;
   var_dump($x);
   echo "\n\n";
+
+  //Example 5: Floats
+  echo "Example 5: Floats\n\n";
+
+  $f = 10.385;
+  var_dump($f);
+  echo "\n\n";
+  
 ?>
